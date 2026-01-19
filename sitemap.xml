@@ -6,10 +6,4 @@ This XML file does not appear to have any style information associated with it. 
 <changefreq>daily</changefreq>
 <priority>1.0</priority>
 </url>
-<url>
-<loc>https://www.shopify.com/about</loc>
-<lastmod>2026-01-14</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.8</priority>
-</url>
 </urlset>
